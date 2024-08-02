@@ -1,0 +1,2 @@
+> cat fileAbc | clip
+  -> read and copy Clipboard (contents of file) and we can paste it to anywhere 
